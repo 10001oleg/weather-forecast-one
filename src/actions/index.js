@@ -29,7 +29,7 @@ export const fetchWeather = () => dispatch => {
   navigator.geolocation.getCurrentPosition(position => {
     let lat = position.coords.latitude;
     let lon = position.coords.longitude;
-    const URL = `http://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&APPID=${
+    const URL = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&APPID=${
       config.key
     }&units=imperial`;
 

@@ -26,7 +26,7 @@ class CurrentWeather extends Component {
         <h1 className="large-font">
           <span>
             <img
-              src={`http://openweathermap.org/img/w/${icon}.png`}
+              src={`https://openweathermap.org/img/w/${icon}.png`}
               alt={`icon ${description}`}
             />
           </span>
