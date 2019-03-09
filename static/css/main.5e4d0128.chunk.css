@@ -1,2 +1,2 @@
 body{margin:0;padding:0;font-family:Roboto;font-weight:300;color:#fff}.large-font{font-size:3.5em;margin:0}@-webkit-keyframes fadeIn{0%{opacity:0}to{opacity:1}}@keyframes fadeIn{0%{opacity:0}to{opacity:1}}h1 img{width:1.2em}.container{width:70vw;-webkit-animation-name:fadeIn;animation-name:fadeIn;-webkit-animation-duration:1.5s;animation-duration:1.5s;overflow-y:hidden;margin:auto}.center{padding:2rem;position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%,-60%);transform:translate(-50%,-60%);background:linear-gradient(to bottom right,#5478b6,#546174);border-radius:1%}@media (min-width:700px){.container{width:500px}}.background{height:100vh}
-/*# sourceMappingURL=main.62b1d91a.chunk.css.map */
+/*# sourceMappingURL=main.5e4d0128.chunk.css.map */
