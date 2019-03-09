@@ -1,0 +1,23 @@
+.container {
+  width: 70vw;
+  animation-name: fadeIn;
+  animation-duration: 1.5s;
+  overflow-y: hidden;
+  margin: auto;
+}
+
+.center {
+  padding: 2rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -60%);
+  background: linear-gradient(to bottom right, #5478b6, #546174);
+  border-radius: 1%;
+}
+
+@media (min-width: 700px) {
+  .container {
+    width: 500px;
+  }
+}
